@@ -3,6 +3,8 @@
 *.lo
 *.o
 *.obj
+**/Debug/**/*.*
+**/x64/**/*.*
 
 # Precompiled Headers
 *.gch
